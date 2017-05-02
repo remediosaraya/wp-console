@@ -24,7 +24,7 @@ Use the file [https://github.com/weknowinc/wp-console/releases/download/0.1.0/wo
 
 ### Available commands:
   
-  * about                             Display basic information about Wordprss Console project
+  * about                             Display basic information about WordPress Console project
   * chain                             Chain command execution
   * exec                              Execute an external command.
   * help                              Displays help for a command
@@ -32,7 +32,7 @@ Use the file [https://github.com/weknowinc/wp-console/releases/download/0.1.0/wo
   * list                              Lists all available commands
  
  **cache**
-  * cache:flush                       Flush the Wordpress object cache
+  * cache:flush                       Flush the WordPress object cache
  
  **chain**
   * chain:debug                       List available chain files.
@@ -44,9 +44,9 @@ Use the file [https://github.com/weknowinc/wp-console/releases/download/0.1.0/wo
   * generate:theme                    Generate a plugin.
  
  **multisite**
-  * multisite:install (mi)            Install a Wordpress multisite network
+  * multisite:install (mi)            Install a WordPress multisite network
   * multisite:debug                   List all sites in network available to a specific user
-  * multisite:new                     Add New Site a Wordpress multisite network
+  * multisite:new                     Add New Site a WordPress multisite network
  
  **plugin**
   * plugin:activate (pa)              Activate plugins or plugin in the application
@@ -54,7 +54,7 @@ Use the file [https://github.com/weknowinc/wp-console/releases/download/0.1.0/wo
   * plugin:debug (pde)                Display current plugins available for application
  
  **site**
-  * site:install                      Install a Wordpress project
+  * site:install                      Install a WordPress project
  
  **theme**
   * theme:activate                    Activate theme in the application
